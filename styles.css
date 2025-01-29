@@ -1,0 +1,56 @@
+/* Outer container */
+#outer {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid black;
+  background: #f8f9fa;
+}
+
+/* Resume title */
+#resume {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Name alignment */
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+
+/* Photo alignment */
+#photo {
+  float: right;
+  border-radius: 50%;
+}
+
+/* Section title */
+.section-title {
+  background-color: rgb(108, 193, 238);
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.section-title2{
+  padding-left: 12%;
+}
+/* Table styling */
+table {
+  width: 100%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Footer */
+footer {
+  text-align: left;
+  margin-top: 20px;
+}
