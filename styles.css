@@ -23,6 +23,8 @@
 /* Photo alignment */
 #photo {
   float: right;
+  padding-right: 10%;
+  padding-left: 10%;
   border-radius: 50%;
 }
 
